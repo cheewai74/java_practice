@@ -5,6 +5,11 @@ public class CashRegister {
     private double purchase;
     private double payment;
 
+    public static final double QUATER_VALUE = 0.25;
+    public static final double DIME_VALUE = 0.1;
+    public static final double NICKEL_VALUE = 0.05;
+    public static final double PENNY_VALUE = 0.01;
+
     /**
      *  Constructs a cash register with no money in it.
      */
@@ -41,5 +46,9 @@ public class CashRegister {
         return change;
     }
 
-
+    public void enterPayments(int dollars, int quaters, int dimes,
+                             int nickels, int pennies){
+        payment = dollars + quaters * QUATER_VALUE + dimes * DIME_VALUE
+                + nickels * NICKEL_VALUE + pennies * PENNY_VALUE;
+    }
 }

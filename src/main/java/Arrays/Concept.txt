@@ -1,3 +1,8 @@
 
 ArrayList class manages a sequence of objects.
 ArrayList<T> collects objects of type T.
+
+To treat primitive type values as objects, you must use wrapper class.
+
+for (Type variable : collection)
+    statement

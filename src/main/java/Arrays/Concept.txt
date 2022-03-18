@@ -1,0 +1,3 @@
+
+ArrayList class manages a sequence of objects.
+ArrayList<T> collects objects of type T.

@@ -1,4 +1,4 @@
-package Account;
+package Basic.Account;
 
 public class CashRegisterTester {
 

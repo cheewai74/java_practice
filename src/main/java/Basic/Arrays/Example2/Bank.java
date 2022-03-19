@@ -1,6 +1,6 @@
-package Arrays.Example2;
+package Basic.Arrays.Example2;
 
-import Arrays.Example1.BankAccount;
+import Basic.Arrays.Example1.BankAccount;
 import java.util.ArrayList;
 
 public class Bank {

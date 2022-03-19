@@ -1,4 +1,4 @@
-package Arrays.Example1;
+package Basic.Arrays.Example1;
 
 public class BankAccount {
 

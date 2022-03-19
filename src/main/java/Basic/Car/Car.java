@@ -1,4 +1,4 @@
-package Car;
+package Basic.Car;
 
 import java.awt.Graphics2D;
 import java.awt.Rectangle;

@@ -1,4 +1,4 @@
-package FaceComponent;
+package Basic.FaceComponent;
 
 import java.awt.Color;
 import java.awt.Graphics;

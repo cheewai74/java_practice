@@ -1,4 +1,4 @@
-package Account;
+package Basic.Account;
 
 import java.util.Scanner;
 

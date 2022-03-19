@@ -1,3 +1,5 @@
+package Basic;
+
 import java.awt.Rectangle;
 
 public class MoveTester {

@@ -1,4 +1,4 @@
-package Arrays.Example3;
+package Basic.Arrays.Example3;
 
 public class TicTacToe {
 

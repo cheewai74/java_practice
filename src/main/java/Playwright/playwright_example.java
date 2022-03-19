@@ -1,3 +1,5 @@
+package Playwright;
+
 import com.microsoft.playwright.*;
 
 public class playwright_example {

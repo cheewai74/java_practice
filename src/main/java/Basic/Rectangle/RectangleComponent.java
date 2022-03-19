@@ -1,4 +1,4 @@
-package Rectangle;
+package Basic.Rectangle;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

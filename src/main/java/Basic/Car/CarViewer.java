@@ -1,16 +1,16 @@
-package FaceComponent;
+package Basic.Car;
 
-import javax.swing.*;
+import javax.swing.JFrame;
 
-public class FaceViewer {
+public class CarViewer {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setSize(300, 400);
-        frame.setTitle("An Alien Face");
+        frame.setTitle("Two Cars");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        FaceComponent component = new FaceComponent();
+        CarComponent component = new CarComponent();
         frame.add(component);
         frame.setVisible(true);
     }

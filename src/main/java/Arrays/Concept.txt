@@ -6,3 +6,5 @@ To treat primitive type values as objects, you must use wrapper class.
 
 for (Type variable : collection)
     statement
+
+ Use the System.arraycopy method to copy elements from one array to another.
